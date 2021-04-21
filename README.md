@@ -1,7 +1,9 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Golam Rafi Badhon </h1>
 
 
-
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://s3.gifyu.com/images/image.gif">
+</a>
 
 ### 🌱 I’m currently learning React
 ### 👯 I’m looking to collaborate on MERN Stack Projects
