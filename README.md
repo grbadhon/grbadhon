@@ -1,16 +1,13 @@
 ### Hi there 👋 I am ## Golam Rafi Badhon
 
-<!--
-**grbadhon/grbadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on MERN Stack Projects
-- 💬 Ask me about React, MongoDB , Firebase
-- 📫 How to reach me: rrafibadhon@gmail.com
-- ⚡ Fun fact: I can code or sleep all day :-P
+### 🔭 I’m currently working on ...
+### 🌱 I’m currently learning React
+### 👯 I’m looking to collaborate on MERN Stack Projects
+### 💬 Ask me about React, MongoDB , Firebase
+### 📫 How to reach me: rrafibadhon@gmail.com
+### ⚡ Fun fact: I can code or sleep all day :-P
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
