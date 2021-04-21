@@ -1,8 +1,8 @@
-## Hi there 👋 I am Golam Rafi Badhon
+<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Golam Rafi Badhon </h1>
 
 
 
-### 🔭 I’m currently working on ...
+
 ### 🌱 I’m currently learning React
 ### 👯 I’m looking to collaborate on MERN Stack Projects
 ### 💬 Ask me about React, MongoDB , Firebase
