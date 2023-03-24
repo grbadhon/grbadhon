@@ -2,7 +2,7 @@
 
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://giphy.com/embed/o1FVmmK0rip96MMGP6">
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcwMWU5ZDgwMzY5M2EzMWMzNzg2ZGE3YjZhMjkzZTg1MzIzZDc2OSZjdD1z/o1FVmmK0rip96MMGP6/giphy.gif">
 </a>
 
 ### 🌱 I’m currently learning React
